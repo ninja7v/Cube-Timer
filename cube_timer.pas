@@ -1,3 +1,4 @@
+// Cube Timer created in Pascal by Luc PREVOST, 2017
 program timer;
 
 uses dos {gettime}, crt {color}, keyboard {readkey};
