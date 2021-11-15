@@ -1,6 +1,6 @@
 # ⏱️ Cube Timer
 
-Cube Timer coded in Pascal by Luc PREVOST.
+**Cube Timer coded in Pascal by Luc PREVOST.**
 
 ![timer_play](https://user-images.githubusercontent.com/52052772/141163459-30f5481d-f5dc-45dc-b46a-6b813e277279.png)
 
@@ -15,8 +15,6 @@ Cube Timer uses the folowing Pascal units:
 To execute it, compile the "cube_timer.pas" file and run it. After launching the program, a terminal windows pops up.
 
 ## ⚙️Menu
-
-
 Everything happens in the terminal. Select the level you want by typing 2, 3, or 4, then press ENTER to validate. If another number is entered, the input will be asked again. If a letter is entered, an error will occur.
 
 ## 🥇 Scores
@@ -28,4 +26,4 @@ Now it is your turn to break records !
 
 Thank you for using my Cube Timer 🙂
 
-Just cube !
+> Just cube !
