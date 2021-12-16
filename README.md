@@ -2,7 +2,7 @@
 
 **Cube Timer coded in Pascal by Luc PREVOST.**
 
-![timer_play](https://user-images.githubusercontent.com/52052772/141163459-30f5481d-f5dc-45dc-b46a-6b813e277279.png)
+![timer_play](https://user-images.githubusercontent.com/52052772/146357589-00cab712-1519-4b16-9b0a-14a2d38fd195.png)
 
 📃 INSTRUCTIONS
 ============
