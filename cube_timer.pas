@@ -133,7 +133,7 @@ BEGIN;
 	
 	writeln  ('space bar x2 to exit');
 	writeln (' ');
-	sise (n);
+	size (n);
 	combinaison (n);
 	chronometre (t);
 	tab [1]:=t;
