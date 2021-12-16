@@ -3,13 +3,13 @@ program timer;
 
 uses dos {gettime}, crt {color}, keyboard {readkey};
 
-//Sise of the cube
-procedure sise (var n:integer);
+//Size of the cube
+procedure size (var n:integer);
 
 begin;
 	repeat
 	begin
-		write ('Sise (2,3,4) : ');
+		write ('Size (2,3,4) : ');
 		read (n);
 		writeln (' ');
 	end
